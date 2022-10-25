@@ -5,12 +5,17 @@ contributor:
     agent_name: Oswell, G. D.
     gutenberg_agent_id: '55144'
     url: http://www.gutenberg.org/2009/agents/55144
+covers:
+- cover_type: archival
+  image_path: 69173-h/images/spoilt_child_cover.jpg
 creator:
   author:
     agent_name: Mitter, Peary Chand
     gutenberg_agent_id: '55143'
     url: http://www.gutenberg.org/2009/agents/55143
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69173#The-Spoilt-Child-A-Tale-of-Hindu-Domestic-Life
 gutenberg_issued: '2022-10-17'
 identifiers:
   gutenberg: '69173'
